@@ -9,15 +9,15 @@ BackEnd
     .Login,DashBoard,Products,Customers,Order Details,PDF,Mail Confirmation
     .Themeforest Free Theme(Bootstrap 3)
     
-How to use
+How To Use
     .Clone the repository with git clone
-    .Copy .env.example file to .env and edit database credentials there
+    .Use .env file to access and edit database credentials here
     .Run composer install
     .Run php artisan key:generate
-    .Run php artisan migrate --seed (it has some seeded data for your testing)
-    .That's it: launch the main URL.
-
+    .Run php artisan migrate--seed(it has some seeded data for testing)
+    .Thats it:Launch the main URL
+    
 License
-Basically, feel free to use and re-use any way you want.
+    Basically, feel free to use and re-use any way you want.
 
 
